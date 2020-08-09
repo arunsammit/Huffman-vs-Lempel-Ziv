@@ -1,2 +1,3 @@
 # huffman-vs-LZ
-Performance of LZ coding method vs Huffman coding method using python
+1. Performance of LZ coding method vs Huffman coding method. 
+2. Performance of LZ coding method for various sizes of dictionary.
